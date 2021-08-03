@@ -1,4 +1,4 @@
-![profile-image1](https://user-images.githubusercontent.com/76624328/128100675-5c650f98-52b7-480c-8de4-f32b89015d45.gif)
+<img src="./web.gif" alt="web"/>
 <h1 align="center">Hi 👋, I'm Manuel Villarroel</h1>
 <h3 align="center">I am 24 years old who loves video games and technology. I am currently focused on full stack web development.I am studying a career in Informatics Engineering
 and I would love to learn new technologies to exploit them. This year I obtained a full web developer certification, I want to share with you my skills and I hope you enjoy this visit to my profile. Welcome!!!</h3>
