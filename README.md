@@ -38,12 +38,12 @@ const aboutMe = {
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> </a>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hasuro1797&show_icons=true&theme=dark&locale=en&layout=compact" alt="Benjamin" padding="10" /></p>
-</br>
+<br></br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hasuro1797&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="Benjamin" padding="10"  </p>
-</br>
+<br><br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hasuro1797&theme=dark" alt="Benjamin" /></p>
 
-</br>
+<br><br/>
 
 <h4 align="center">Visitor's :eyes:</h4>
 
