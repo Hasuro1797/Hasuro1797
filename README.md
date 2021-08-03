@@ -1,4 +1,4 @@
-### Welcome to my profile :P 👋
+
 <h1 align="center">Hi 👋, I'm Manuel Villarroel</h1>
 <h3 align="center">I am 24 years old who loves video games and technology. I am currently focused on full stack web development.I am studying a career in Informatics Engineering
 and I would love to learn new technologies to exploit them. This year I obtained a full web developer certification, I want to share with you my skills and I hope you enjoy this visit to my profile. Welcome!!!</h3>
@@ -20,6 +20,10 @@ const aboutMe = {
    currentOccupation: ["Studying computer science engineering"],
 };
 ```
+- 🌱 I am currently studying a career (Eng. In Informatics), and learning C and Python
+- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, TypeScript, Sequelize**
+- 📫 How to reach me **manuel17973433@gmail.com**
+- ⚡ Fun fact ** After many hours of writing code, I like to play video games with my friends or just have fun with my loved ones **
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/manuel-benjamin-villarroel-bedregal/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bryancamilopineda/" height="30" width="40" /></a>
