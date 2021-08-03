@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my profile :P 👋
+👋 Hi! I'm Manuel, Ilove launching products and share with you how to do the same. Hope you find useful my repos about software development and product management.
+Feel free to reach out!
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
