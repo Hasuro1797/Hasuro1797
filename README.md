@@ -45,11 +45,20 @@ const aboutMe = {
 <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> </a>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hasuro1797&show_icons=true&theme=dark&locale=en&layout=compact" alt="Benjamin" padding="10" /></p>
-<br></br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hasuro1797&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="Benjamin" padding="10"  </p>
-<br><br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hasuro1797&theme=dark" alt="Benjamin" /></p>
+<p align="left">
+  <a href="https://github.com/Hasuro1797"><img width="400" src="https://github-readme-stats.vercel.app/api?username=Hasuro1797&show_icons=true&theme=gruvbox">
+  <a href="https://github.com/Hasuro1797"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hasuro1797&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="Benjamin">
+  <a href="https://github.com/Hasuro1797"><img width="800" src="https://github-profile-trophy.vercel.app/?username=Hasuro1797&row=1&column=5&theme=gruvbox">
+</p>
+     
+## My repos
+    
+<p align="left">
+  
+   <a href="https://github.com/Hasuro1797/AppVideogames"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Hasuro1797&repo=AppVideogames&langs_count=5&theme=gruvbox">
+  <a href="https://github.com/Hasuro1797/Portfolio"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Hasuro1797&card_height=300&&repo=Portfolio&langs_count=5&layout=compact&theme=gruvbox">
+</p>  
+
 
 <br><br/>
 
