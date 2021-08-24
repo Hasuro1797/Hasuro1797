@@ -70,7 +70,9 @@ const aboutMe = {
 <p align="center"><img src="https://profile-counter.glitch.me/{Hasuro1797}/count.svg" alt="Manuel Villarroel :: Visitor's Count" /></p>
 
 # Individual Project - Henry Videogames
-<table>
+     
+<p align="center">
+  <table>
   <tr>
     <td>Landing Page</td>
     <td>Home Page</td>
@@ -104,7 +106,8 @@ const aboutMe = {
      <td><p align="center"><img height="200" src="./PI-images/details-responsive.JPG" /></p></td>
      <td><p align="center"><img height="200" src="./PI-images/form-responsive.JPG" /></p></td>
   </tr>
- </table>
+  </table>
+ </p>
 <!--
 **Hasuro1797/Hasuro1797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
