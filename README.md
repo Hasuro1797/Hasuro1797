@@ -67,7 +67,7 @@ const aboutMe = {
 
 <h4 align="center">Visitor's :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Hasuro1797}/count.svg" alt="bryancpineda :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Hasuro1797}/count.svg" alt="Manuel Villarroel :: Visitor's Count" /></p>
 
 # Individual Project - Henry Videogames
 <table>
@@ -87,6 +87,22 @@ const aboutMe = {
   <tr>
     <td><img height="200" src="./PI-images/detailvideogame.JPG" /></td>
     <td><img height="200" src="./PI-images/addgame1.JPG" /></td>
+  </tr>
+  <tr>
+    <td>Landing Page Movil</td>
+     <td>Home Movil</td>
+  </tr>
+  <tr>
+     <td><p align="center"><img left height="200" src="./PI-images/landing-responsive.JPG" /></p></td>
+     <td><p align="center"><img height="200" src="./PI-images/home-responsive.JPG" /></p></td>
+  </tr>
+  <tr>
+    <td>Detail Movil</td>
+     <td>Form Movil</td>
+  </tr>
+  <tr>
+     <td><p align="center"><img height="200" src="./PI-images/details-responsive.JPG" /></p></td>
+     <td><p align="center"><img height="200" src="./PI-images/form-responsive.JPG" /></p></td>
   </tr>
  </table>
 <!--
