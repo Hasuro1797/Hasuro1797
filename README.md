@@ -69,6 +69,7 @@ const aboutMe = {
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Hasuro1797}/count.svg" alt="bryancpineda :: Visitor's Count" /></p>
 
+# Individual Project - Henry Videogames
 
 <!--
 **Hasuro1797/Hasuro1797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
