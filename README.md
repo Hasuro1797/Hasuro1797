@@ -1,6 +1,6 @@
 <img src="./web.gif" alt="web"/>
 <h1 align="center">Hi 👋, I'm Manuel Villarroel</h1>
-<h3 align="center">I am who loves video games and technology. I am currently focused on full stack web development.I am studying a career in Informatics Engineering
+<h3 align="center">I love video games and technology. I am currently focused on full stack web development.I am studying a career in Informatics Engineering
 and I would love to learn new technologies to exploit them. This year I obtained a full web developer certification, I want to share with you my skills and I hope you enjoy this visit to my profile. Welcome!!!</h3>
 
 ```javascript
