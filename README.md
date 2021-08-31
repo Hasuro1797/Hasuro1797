@@ -69,7 +69,7 @@ const aboutMe = {
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Hasuro1797}/count.svg" alt="Manuel Villarroel :: Visitor's Count" /></p>
 
-# Individual Project - Henry Videogames
+# Individual Project - WOW Videogames
      
 <p align="center">
   <table>
