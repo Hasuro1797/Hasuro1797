@@ -26,7 +26,9 @@ const aboutMe = {
 - ⚡ Fun fact ** After many hours of writing code, I like to play video games with my friends or just have fun with my loved ones **
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/manuel-benjamin-villarroel-bedregal/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bryancamilopineda/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/manuel-villarroel/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://port-folio-green.vercel.app/" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1875/PNG/512/web_120072.png" alt="porfolio" height="40" width="40" /></a>
+
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
