@@ -64,6 +64,8 @@ const aboutMe = {
    <a href="https://github.com/RodrigoToledo5/ConsultanceSpace"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RodrigoToledo5&card_height=300&&repo=ConsultanceSpace&langs_count=5&layout=compact&theme=gruvbox">
    <a href="https://github.com/Hasuro1797/PortFolio"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Hasuro1797&card_height=300&&repo=Portfolio&langs_count=5&layout=compact&theme=gruvbox">
    <a href="https://github.com/Hasuro1797/PokeApp"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Hasuro1797&card_height=300&&repo=PokeApp&langs_count=5&layout=compact&theme=gruvbox">
+   <a href="https://github.com/Hasuro1797/searchActor"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Hasuro1797&card_height=300&&repo=searchActor&langs_count=5&layout=compact&theme=gruvbox">
+   <a href="https://github.com/Hasuro1797/testEvo"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Hasuro1797&card_height=300&&repo=testEvo&langs_count=5&layout=compact&theme=gruvbox">
 </p>  
 
 
