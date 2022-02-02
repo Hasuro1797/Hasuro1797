@@ -9,13 +9,13 @@ const aboutMe = {
    code: [Javascript, Typescript, HTML, CSS, Python],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux"],
-         css: ["Bootstrap", "Material UI"]
+         js: ["React", "Redux","NextJS"],
+         css: ["Bootstrap", "Material UI","AntDesign","Tailwind"]
       },
       backEnd: {
-         js: ["Node", "Express"]
+         js: ["Node", "Express","JWT","Sequalize","Mongoose"]
       },
-      databases: ["PostgreSQL"],
+      databases: ["PostgreSQL","MongoDB"],
    },
    currentOccupation: ["Studying computer science engineering"],
 };
