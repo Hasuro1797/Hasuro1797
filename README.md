@@ -63,7 +63,7 @@ const aboutMe = {
    <a href="https://github.com/Hasuro1797/PortFolio"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=Hasuro1797&card_height=300&&repo=Portfolio&langs_count=5&layout=compact&theme=gruvbox">
    <a href="https://github.com/Hasuro1797/PokeApp"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=Hasuro1797&card_height=300&&repo=PokeApp&langs_count=5&layout=compact&theme=gruvbox">
    <a href="https://github.com/Hasuro1797/searchActor"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=Hasuro1797&card_height=300&&repo=searchActor&langs_count=5&layout=compact&theme=gruvbox">
-   <a href="https://github.com/Hasuro1797/testEvo"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=Hasuro1797&card_height=300&&repo=testEvo&langs_count=5&layout=compact&theme=gruvbox">
+   <a href="https://github.com/Hasuro1797/travelingApp"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=Hasuro1797&card_height=300&&repo=travelingApp&langs_count=5&layout=compact&theme=gruvbox">
    <a href="https://github.com/Hasuro1797/PokeApp"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=Hasuro1797&card_height=300&&repo=PokeApp&langs_count=5&layout=compact&theme=gruvbox">
    <a href="https://github.com/Hasuro1797/TodoList"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=Hasuro1797&card_height=300&&repo=TodoList&langs_count=5&layout=compact&theme=gruvbox">
 </p>  
